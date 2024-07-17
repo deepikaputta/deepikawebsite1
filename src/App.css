@@ -1,0 +1,5 @@
+.App {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #431d55 0%, #23102c 100%);
+  min-height: 100vh;
+}
